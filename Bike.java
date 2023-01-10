@@ -5,6 +5,7 @@ public class Bike {
 	int price;
 	String model;
 	String color;
+	int length;
 	
 
 }
